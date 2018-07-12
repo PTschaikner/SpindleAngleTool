@@ -1,5 +1,5 @@
 # Goal
-This Imagej/FIJI Plugin aims to provide a simple tool to assess spindle positioning within an image stack.
+This ImageJ/FIJI Plugin aims to provide a simple tool to assess spindle positioning within an image stack.
 
 # Requirements
 This macro works on single-channel image stacks of gamma-tubulin stained samples. Images need to be cropped to contain only one cell per stack.
